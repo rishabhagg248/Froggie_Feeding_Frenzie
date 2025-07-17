@@ -1,30 +1,3 @@
-//////////////// FROG //////////////////////////
-//
-// Title: frog class creates and performs functions on frog object
-// Course: CS 300 Fall 2023
-//
-// Author: Rishabh Aggarwal
-// Email: raggarwal24@wisc.edu
-// Lecturer: Mouna Kacem
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name: Krishna Sai Maganti
-// Partner Email: kmaganti@wisc.edu
-// Partner Lecturer's Name: Hobbes Legault
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-// _X_ Write-up states that pair programming is allowed for this assignment.
-// _X_ We have both read and understand the course Pair Programming Policy.
-// _X_ We have registered our team prior to the team registration deadline.
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons: Null
-// Online Sources: Null
-//
-///////////////////////////////////////////////////////////////////////////////
-
 // importing the required functions
 import java.io.File;
 
